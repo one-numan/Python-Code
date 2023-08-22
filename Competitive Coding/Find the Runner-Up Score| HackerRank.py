@@ -23,7 +23,7 @@ Sample Input 0
 5
 2 3 6 6 5
 
-
+**This Types of Similar Logic is very Helpfull me , In Some Corner Case
 """
 
 if __name__ == '__main__':
